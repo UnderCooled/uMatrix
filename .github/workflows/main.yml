@@ -4,6 +4,8 @@ on:
   create:
     branches: master
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 # I used the following project as template to get started:
 # https://github.com/dessant/search-by-image/blob/master/.github/workflows/ci.yml
 
