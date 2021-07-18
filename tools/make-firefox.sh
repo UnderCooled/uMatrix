@@ -37,3 +37,4 @@ elif [ -n "$1" ]; then
 fi
 
 echo "*** uMatrix.firefox: Package done."
+
